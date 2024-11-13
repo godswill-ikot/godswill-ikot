@@ -1,7 +1,3 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nkereiso, Godswill Ikot
-===============================================================================================================================================
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 I'm a Virtual Assistant and Cyber Security Analyst
 ----------------------
 
