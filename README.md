@@ -5,12 +5,12 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 I'm a Virtual Assistant and Cyber Security Analyst
 ----------------------
 
-I am a Virtual Assistant and a detail-oriented Cybersecurity Professional dedicated to protecting organizations and the people they serve. I am well-grounded in NIST, ISO/IEC 27001, and COBIT frameworks and able to implement security controls to ensure compliance with international regulations related to data protection. I am also experienced in identifying threats, risks, and vulnerabilities as I'm proficient in using the Linux command line, SQL, and Python. I have strong communication, analytical and problem-solving skills. I am a recent MSc Cybersecurity holder from the University of Roehampton with a completed Google Cybersecurity Course Certificate, a rigorous, skill-based program that covered key cybersecurity knowledge and skills. I also have a B.Tech in Statistics from the Federal University of Technology, Akure. Thank you
+I am a Virtual Assistant and a detail-oriented Cybersecurity Professional dedicated to protecting organizations and the people they serve. I am well-grounded in NIST, ISO/IEC 27001, and COBIT frameworks and able to implement security controls to ensure compliance with international regulations related to data protection. I am also experienced in identifying threats, risks, and vulnerabilities as I'm proficient in using the Linux command line, SQL, and Python. I have strong communication, analytical and problem-solving skills. I am a recent MSc Cybersecurity holder from the University of Roehampton with a completed Google Cybersecurity Course Certificate. This rigorous, skill-based program covered key cybersecurity knowledge and skills. I also have a B.Tech in Statistics from the Federal University of Technology, Akure. Thank you
 
 * 🌍  I'm based in London. United Kingdom
 * ✉️  You can contact me at [godswill08030444795@gmail.com](mailto:godswill08030444795@gmail.com), 07886106592
 * 🧠  I'm learning Cybersecurity
-* 🤝  I'm open to collaborating on with individual, start-up companies, and large organization on new and existing projects
+* 🤝  I'm open to collaborating with individuals, start-up companies, and large organizations on new and existing projects
 * ⚡  I am a good saxophone player with a B.Tech in Statistics
 
 ## Projects
@@ -20,7 +20,7 @@ I am a Virtual Assistant and a detail-oriented Cybersecurity Professional dedica
 ### Skills Learned
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns using wireshark.
+- Ability to generate and recognize attack signatures and patterns using Wireshark.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of cybersecurity frameworks for organizations from industry frameworks like NIST CSF, ISC/IEC27001, and COBIT for compliance and governance
 -  Development of critical thinking and problem-solving skills in cybersecurity.
