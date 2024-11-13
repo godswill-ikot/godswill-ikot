@@ -13,9 +13,6 @@ I am a Virtual Assistant and a detail-oriented Cybersecurity Professional dedica
 * 🤝  I'm open to collaborating on with individual, start-up companies, and large organization on new and existing projects
 * ⚡  I am a good saxophone player with a B.Tech in Statistics
 
-<a href="https://www.github.com/godswill-ikot" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/godswill-ikot?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
-
 ## Projects
 - Detection Lab
 - SOC Automation Project
@@ -44,6 +41,8 @@ src="https://img.shields.io/github/followers/godswill-ikot?logo=github&style=for
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/godswill-ikot" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nkereisoig" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://www.github.com/godswill-ikot" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/godswill-ikot?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
 ### Badges
 
